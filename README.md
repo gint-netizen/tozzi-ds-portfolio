@@ -1,6 +1,11 @@
 # tozzi-ds-portfolio
 Machine Learning &amp; Data Science portfolio: real-world analytics projects developed during the MIT IDSS program.
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+![MIT IDSS](https://img.shields.io/badge/MIT-IDSS-red)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-lightgrey)
+
 # 🧠 Data Science & Machine Learning Portfolio  
 
 Projects completed as part of the **MIT IDSS “Data Science & Machine Learning: Making Data-Driven Decisions”** program.  
