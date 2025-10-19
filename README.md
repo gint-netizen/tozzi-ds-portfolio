@@ -38,9 +38,7 @@ Each notebook demonstrates the application of data analytics and machine learnin
 **Results:** Delivered data-driven recommendations to optimize targeting, inventory allocation, and customer retention.  
 📓 [View notebook](./Customer_Personality_Segmentation.ipynb)
 
----
-
-## 📄 Important Note  
+### 📄 Important Note  
 
 The **Passenger Satisfaction Prediction** notebook may display as *“Invalid Notebook”* in GitHub’s preview because it was developed in **Google Colab**, which adds metadata that GitHub cannot render.  
 It remains fully functional and can be viewed by clicking on the **“Code”** tab above the file.  
