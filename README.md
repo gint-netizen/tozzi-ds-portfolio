@@ -13,15 +13,6 @@ Each notebook demonstrates the application of data analytics and machine learnin
 
 ---
 
-## 🚄 Passenger Satisfaction Prediction (Hackathon)
-**Objective:** Predict passenger satisfaction levels using survey and operational data to improve customer experience.  
-**Skills & Tools:** Data preprocessing, Feature Engineering, Ensemble Models (XGBoost, LightGBM, CatBoost), Cross-Validation.  
-**Results:** Achieved **95.38 % accuracy**, ranking among the **Top 3** in the program-wide Hackathon.  
-**Impact:** Demonstrated the ability to design, optimize, and generalize complex ML pipelines for real-world decision-making.  
-📓 [View notebook](./Passenger_Satisfaction_Prediction.ipynb)
-
----
-
 ## 🛒 Amazon Product Recommendation System
 **Course:** Recommendation Systems – *MIT IDSS Data Science & Machine Learning Program*  
 **Objective:** Build a recommendation engine to suggest the best Amazon products to users based on historical rating data.  
@@ -47,6 +38,24 @@ Each notebook demonstrates the application of data analytics and machine learnin
 **Results:** Delivered data-driven recommendations to optimize targeting, inventory allocation, and customer retention.  
 📓 [View notebook](./Customer_Personality_Segmentation.ipynb)
 
+---
+
+## 📄 Important Note  
+
+The **Passenger Satisfaction Prediction** notebook may display as *“Invalid Notebook”* in GitHub’s preview because it was developed in **Google Colab**, which adds metadata that GitHub cannot render.  
+It remains fully functional and can be viewed by clicking on the **“Code”** tab above the file.  
+
+An official **MIT IDSS Hackathon Certificate** is also included, confirming my **3rd place (Second Runner Up)** ranking across all program cohorts.  
+📜 [View Hackathon Certificate](./Ginevra%20Tozzi%20Hackathon.pdf)
+
+---
+
+## 🚄 Passenger Satisfaction Prediction (Hackathon)
+**Objective:** Predict passenger satisfaction levels using survey and operational data to improve customer experience.  
+**Skills & Tools:** Data preprocessing, Feature Engineering, Ensemble Models (XGBoost, LightGBM, CatBoost), Cross-Validation.  
+**Results:** Achieved **95.38 % accuracy**, ranking among the **Top 3** in the program-wide Hackathon.  
+**Impact:** Demonstrated the ability to design, optimize, and generalize complex ML pipelines for real-world decision-making.  
+📓 [View notebook](./Passenger_Satisfaction_Prediction.ipynb)
 ---
 
 ## 🧰 Tools & Stack
