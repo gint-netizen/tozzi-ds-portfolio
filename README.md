@@ -54,7 +54,7 @@ The **Passenger Satisfaction Prediction** notebook may display as *“Invalid No
 It remains fully functional and can be viewed by clicking on the **“Code”** tab above the file.  
 
 An official **MIT IDSS Hackathon Certificate** is also included, confirming my **3rd place (Second Runner Up)** ranking across all program cohorts.  
-📜 [View Hackathon Certificate](./Ginevra%20Tozzi%20Hackathon.pdf)
+📜 [Hackathon Ranking – Passenger Satisfaction Prediction](https://github.com/gint-netizen/tozzi-ds-portfolio/blob/main/Certificates/Ginevra_Tozzi_Hackathon.pdf)
 
 ---
 
